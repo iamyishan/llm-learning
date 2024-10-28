@@ -1,18 +1,15 @@
-# langchain的基本使用
+# langchain学习
 
-### 前提
+参考地址：https://python.langchain.com/docs/tutorials/
 
-- 安装
+### 安装
 
-  ~~~shell
-  pip install langchain
-  ~~~
+~~~shell
+pip install -r requirements.txt
+~~~
 
-- 大模型
+注意：新版langchain已包含
 
-  - ollama部署的本地qwen2:7b模型
-
-### 用Prompt模板
-
-
-
+- langchain-core
+- langsmith状态跟踪
+- langgraph
