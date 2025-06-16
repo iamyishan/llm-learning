@@ -43,5 +43,5 @@ transformers
 datasets
 peft
 bitsandbytes
-
-参考：https://bruceyuan.com/hands-on-code/hands-on-causallm-decoder.html
+```
+## 参考：https://bruceyuan.com/hands-on-code/hands-on-causallm-decoder.html
